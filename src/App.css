@@ -1,0 +1,21 @@
+.bg-container {
+  background-image: url("https://assets.ccbp.in/frontend/react-js/random-no-generator-bg.png");
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-container {
+  /* width: 60%; */
+  background-color: #fff;
+  padding: 40px;
+  background-color: lightblue;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.counter {
+  color: blue;
+}
